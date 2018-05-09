@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="SubTextView">请输入电话号码</string>
+    <string name="OtherTextView">I’m OtherActivity,click me,you will jump to MainActivity that take away data</string>
+    <string name="button01_show">跳转到OtherActivity</string>
+    <string name="button02_show">跳转到SubActivity</string>
+    <string name="button03_show">跳转到Sub2Activity</string>
+    <string name="MainTextView">这里将显示来自子activity的返回值</string>
+    <string name="OtherEditView_show">请输入文本</string>
+    <string name="ButtonOther01">确定</string>
+    <string name="ButtonOther02">取消</string>
+    <string name="TextviewSub2">输入文本广播</string>
+    <string name="ButtonSub2">广播</string>
+    <string name="ButtonSub2_1">启动计算器</string>
+</resources>
